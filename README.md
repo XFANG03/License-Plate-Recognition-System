@@ -28,6 +28,7 @@
   - 多类型车牌支持（民用、新能源、港澳车牌等）
 
 ## 系统架构
+![image](https://github.com/user-attachments/assets/15c6408a-a7de-4046-ad74-c40c40760a24)
 
 项目采用经典的MVC架构设计，确保了系统的模块化和高扩展性：
 
@@ -69,6 +70,7 @@ python index.py
 3. 系统将自动进行处理并显示识别结果
 
 ## 核心模块说明
+![image](https://github.com/user-attachments/assets/91414bd7-fdc4-4444-a252-9d639342ac3d)
 
 ### 1. 车牌定位模块 (`plate_location.py`)
 - HSV色彩空间分析
@@ -101,6 +103,10 @@ python index.py
 - 支持多种类型车牌识别（民用、新能源、港澳车牌）
 - 适应复杂环境（光照变化、倾斜角度等）
 - 处理效率高，识别准确率高
+![image](https://github.com/user-attachments/assets/bcbaf923-d28a-4829-ab8a-fff3d92dbb1b)
+![image](https://github.com/user-attachments/assets/f233f057-cd3c-4997-acf1-11131009662d)
+![image](https://github.com/user-attachments/assets/7afd083e-a9b1-4d77-bd03-184969a3ba00)
+![image](https://github.com/user-attachments/assets/7dc5f12a-68b4-4d87-8137-cf53ae556185)
 
 ## 致谢
 
