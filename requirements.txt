@@ -1,0 +1,8 @@
+opencv-python>=4.5.0
+numpy>=1.19.0
+matplotlib>=3.3.0
+pillow>=8.0.0
+tk>=0.1.0
+dataclasses>=0.8; python_version < '3.7'
+typing>=3.7.4; python_version < '3.5'
+enum34>=1.1.10; python_version < '3.4'
